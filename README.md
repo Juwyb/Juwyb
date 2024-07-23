@@ -17,9 +17,9 @@
 - HTML
 - CSS
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 ![Juwyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juwyb&show_icons=true&theme=radical)
-
+-->
 ## 📫 Contact
 - LinkedIn: [Serhii Matkov]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/serhii-matkov-b68b56183/))
 - Email: [serhii.matkov.vol@gmail.com](mailto:serhii.matkov.vol@gmail.com)
