@@ -11,7 +11,7 @@
 ## 🛠 Technologies & Tools
 - JavaScript
 - React
-- NestJS
+- NextJS
 - Node.js
 - TypeScript
 - HTML
