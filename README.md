@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning advanced backend development and exploring DevOps practices.
 - 💞️ I’m looking to collaborate on innovative projects that make a positive impact.
 - 📫 How to reach me: [serhii.matkov.vol@gmail.com](mailto:serhii.matkov.vol@gmail.com)
-- 😄 Pronouns: He/Him
+<!-- ## - 😄 Pronouns: He/Him -->
 - ⚡ Fun fact: I started my programming journey with a white, bulky computer that had only 60GB of storage!
 
 ## 🛠 Technologies & Tools
